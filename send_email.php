@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Validate input (you can add more validation as needed)
 
     // Construct email message
-    $to = "your_email@example.com"; // Replace with your email address
+    $to = "pawansuthar310@gmail.com"; // Replace with your email address
     $subject = "New Contact Form Submission";
     $body = "Name: $name\n";
     $body .= "Email: $email\n";
